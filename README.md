@@ -1,1 +1,1 @@
-https://github.com/user-attachments/assets/0be10f4d-1e0b-41e0-b4e1-78241a3be1ed
+![Teks paragraf Anda](https://github.com/user-attachments/assets/3ff76d6e-859a-435d-af7f-73079352c7c8)
