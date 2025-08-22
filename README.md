@@ -1,1 +1,1 @@
-<img width="2125" height="575" alt="card" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/960px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png" />
+<img width="2125" height="575" alt="card" src="https://github.com/user-attachments/assets/83b1f25f-fbad-4719-aa46-4229d8612e83" />
