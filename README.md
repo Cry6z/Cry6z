@@ -1,1 +1,1 @@
-<img width="2000" height="500" alt="card 2" src="https://github.com/user-attachments/assets/120b6fe8-e884-4fb7-9584-1526d9b6b089" />
+<img width="2125" height="575" alt="Cry6z Card" src="https://github.com/user-attachments/assets/f0b8814e-bfc8-4161-a71b-4a77b0336197" />
