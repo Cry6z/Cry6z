@@ -1,1 +1,1 @@
-<img width="2125" height="575" alt="6z card" src="https://github.com/user-attachments/assets/ea7881b5-c087-492b-9640-b08a89b56a72" />
+<img width="680" height="240" alt="card" src="https://github.com/user-attachments/assets/6b3ad457-e578-4e89-aedd-82ae7cb68d73" />
