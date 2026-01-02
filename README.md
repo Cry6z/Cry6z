@@ -1,1 +1,1 @@
-<img width="2125" height="575" alt="GitHub Card (1)" src="https://github.com/user-attachments/assets/dc212d7b-323d-42f3-80bf-8158924130e6" />
+<img width="2125" height="575" alt="GitHub Card" src="https://github.com/user-attachments/assets/89517961-e0c9-4d32-88ae-bfb5b3b9006c" />
