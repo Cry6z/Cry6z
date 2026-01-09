@@ -1,5 +1,3 @@
-<div align="center">
-  <a href="https://open.spotify.com/user/bran">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bran&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Cry6z&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Cry6z&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cry6z&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
