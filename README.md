@@ -1,1 +1,1 @@
-<img width="2125" height="575" alt="GitHub Card (4)" src="https://github.com/user-attachments/assets/eeb689d8-bc55-4653-a465-f26f2ec6047a" />
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2NvyYhg45Mg2KMoSX0IvGt?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
